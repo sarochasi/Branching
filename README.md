@@ -1,5 +1,7 @@
 ## Git Cheat Sheet and Branching Practice
 
+Examples of common git commands. Also practice dealing with branching anfd resolving merge conflicts.
+
 ### General Commands
 * 'git init' - initialize local git repo in current working directory
 * 'git add filename' - stage 'filename' for commit
@@ -9,10 +11,3 @@
 * 'git status' - show of local repo
 * 'git log' - list commit history of current branch
 * 'git log --oneline' - list commit history (compact format)
-
-### Branching Commands
-* 'git branch' - list local branches
-* 'git branch branchName' - create local branch ' branchName'
-* 'git checkout branchName' - switch to branch 'branchName'
-* 'git checkout -b branchName' - create and switch to branch 'branchName'
-
