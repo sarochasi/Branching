@@ -9,6 +9,7 @@ More main stuff.
 * 'git init' - initialize local git repo in current working directory
 * 'git add filename' - stage 'filename' for commit
 * 'git commit -m msg' - commit statged files into local repo
+* 'git clone url' - clone remote repo 'url' to local working directory
 
 ### Information Commands
 * 'git status' - show of local repo
