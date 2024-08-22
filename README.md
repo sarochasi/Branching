@@ -11,3 +11,8 @@ Examples of common git commands. Also practice dealing with branching anfd resol
 * 'git status' - show of local repo
 * 'git log' - list commit history of current branch
 * 'git log --oneline' - list commit history (compact format)
+
+### Remote Commands
+* 'git remote add origin url' - add new remote 'url' with alias 'origin
+* 'git push origin branchName' - push current local branch to remote branch 'branchName' 
+* 'git pull origin branchName' - pull and merge remote branch 'branchName' with current local branch
